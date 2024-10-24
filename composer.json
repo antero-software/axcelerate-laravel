@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "flipninja/axcelerate-php": "^0.5.2",
+    "flipninja/axcelerate-php": "^0.5.4",
     "illuminate/support": "^8.0"
   },
   "require-dev": {
